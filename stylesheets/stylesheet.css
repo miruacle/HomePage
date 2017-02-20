@@ -154,3 +154,6 @@ sub page Styles
 #introduction_content p{
   text-align:center;
 }
+#about_content p{
+  text-align:center;
+}
