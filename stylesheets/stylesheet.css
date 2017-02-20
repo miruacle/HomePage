@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+/*******************************************************************************
+Theme Styles
+*******************************************************************************/
+body {
+  box-sizing: border-box;
+  color:#373737;
+  background: #ffffff;
+  font-size: 16px;
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/*******************************************************************************
+Full-Width Styles
+*******************************************************************************/
+
+.outer {
+  width: 100%;
+}
+
+.inner {
+  position: relative;
+  max-width: 960px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
