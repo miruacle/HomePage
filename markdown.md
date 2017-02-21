@@ -1,6 +1,6 @@
 # 标题
 - 列表
-[显示文本](address)
+[markdown语法](http://wowubuntu.com/markdown/)
 ![](img src)插入图片
 > 引用
 *斜体*
