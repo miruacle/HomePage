@@ -152,9 +152,12 @@ sub page Styles
 *******************************************************************************/
 #introduction_content {
 	  height:auto!important;
-    min-height:500px; 
+    min-height:600px; 
 }
-
+#about_content {
+    height:auto!important;
+    min-height:600px; 
+}
 #dynamics_content {
   text-align:center;
 }
