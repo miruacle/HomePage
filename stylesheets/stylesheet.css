@@ -72,6 +72,8 @@ Full-Width Styles
 #logo_img　{
   position:absolute;
   left:100px;	
+  width=180px;
+  height=60px;
 }
 #logo_words {
   position:absolute;
